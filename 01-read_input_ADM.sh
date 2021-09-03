@@ -1,8 +1,5 @@
-#!/bin/bash
-# read the name of the user and print hello
-
 echo "Hello! What is your name"
-read name
+read Ching Vang
 echo "Welcome, $name"
 
 # single quotes prevent the expansion of the variable
