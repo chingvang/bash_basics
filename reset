@@ -1,0 +1,290 @@
+[33mcommit 7024464d3349f2c6bbaca7b282f80279ac6f5d6b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ching_Vang <chingvang76@yahoo.com>
+Date:   Thu Sep 2 23:35:37 2021 -0400
+
+    Initial commit
+
+[33mcommit 856680f65416b4e25d24d5218ee09f7f2b399316[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ancadm <adolocm@users.noreply.github.com>
+Date:   Fri Sep 4 19:07:49 2020 -0400
+
+    Create 13-RNG.sh
+
+[33mcommit df1d67ec1a5f04173c4819a66bdcff70cc05cc2b[m
+Author: ancadm <adolocm@users.noreply.github.com>
+Date:   Fri Sep 4 18:35:19 2020 -0400
+
+    Create 12-monkeys.sh
+
+[33mcommit 0d770edc652d68d7fa787a64d38226c50dc829ff[m
+Author: ancadm <adolocm@users.noreply.github.com>
+Date:   Sun Aug 12 17:58:06 2018 -0400
+
+    Delete 01-read_input Jake.sh
+
+[33mcommit d5ba4ae7c1ac81d8a2d2cbc2e5d225d7237df969[m
+Author: ancadm <adolocm@users.noreply.github.com>
+Date:   Sun Aug 12 17:57:56 2018 -0400
+
+    Delete 01-read_input_Jared.sh
+
+[33mcommit 78284abca11b9af384c36ebca9dfc5734b9b7082[m
+Author: ancadm <adolocm@users.noreply.github.com>
+Date:   Sun Aug 12 17:57:47 2018 -0400
+
+    Delete 01-read_input_BenJackson.sh
+
+[33mcommit b1139904dfd8c1bc2ac748ede52dd172e7462513[m
+Author: ancadm <adolocm@users.noreply.github.com>
+Date:   Sun Aug 12 17:57:35 2018 -0400
+
+    Delete 01-read_input_Lizz.sh
+
+[33mcommit b2abdd860e29c24921c1646e8332fcf43ff723cb[m
+Merge: d19c6e7 9d15307
+Author: ancadm <adolocm@users.noreply.github.com>
+Date:   Thu Apr 5 18:54:52 2018 -0400
+
+    Merge pull request #2 from bjackson14/master
+    
+    Shows Help
+
+[33mcommit d19c6e78794b7a76eb3d85ae5f65c64ae14db063[m
+Merge: 2669bcb 900b2a4
+Author: ancadm <adolocm@users.noreply.github.com>
+Date:   Thu Apr 5 18:51:29 2018 -0400
+
+    Merge pull request #4 from bradberryjacob/master
+    
+    Change made to the file Jacob Bradberry
+
+[33mcommit 2669bcb55eeaef4811f8170ac65e0a6253e449fc[m
+Merge: e1b21e1 c78d787
+Author: ancadm <adolocm@users.noreply.github.com>
+Date:   Thu Apr 5 18:50:11 2018 -0400
+
+    Merge pull request #6 from jhouseman/master
+    
+    Edited name prompt with filename request
+
+[33mcommit e1b21e1947d4fe24d82c80eb8495cebb4e9f9f4e[m
+Merge: ece434a 19d2dac
+Author: ancadm <adolocm@users.noreply.github.com>
+Date:   Thu Apr 5 18:02:20 2018 -0400
+
+    Merge pull request #9 from LizzHaynie/master
+    
+    Creating a file Elizabeth Haynie
+
+[33mcommit 19d2dac545a4c8a6114d18f90ea0f6ae5737ab99[m
+Author: Elizabeth <ehaynie@ggc.edu>
+Date:   Thu Mar 29 19:38:50 2018 -0400
+
+    reading file
+
+[33mcommit c78d78719c61940643125c418fb234a88e0fc79f[m
+Author: jhouseman <jhouseman@ggc.edu>
+Date:   Mon Mar 26 21:57:15 2018 -0400
+
+    Added filename prompt
+
+[33mcommit 57ff9360640d21b5a6738c6765319985a00842ea[m
+Author: jhouseman <jhouseman@ggc.edu>
+Date:   Mon Mar 26 21:55:49 2018 -0400
+
+    Added filename prompt
+
+[33mcommit 0de1cb6224a7be2ded784eaceb22581da4cedda4[m
+Author: jhouseman <jhouseman@ggc.edu>
+Date:   Mon Mar 26 21:47:30 2018 -0400
+
+    Edited name prompt
+
+[33mcommit 900b2a496b2aad1163b020a9027f188803b5d86f[m
+Author: Jacob Bradberry <bradberry.jacob@gmail.com>
+Date:   Mon Mar 26 21:09:36 2018 -0400
+
+    Change made to the file
+
+[33mcommit 4a755e12ca2cc58c7fc4d17a0d4d71dee4b30de1[m
+Author: Elizabeth Haynie <35352425+LizzHaynie@users.noreply.github.com>
+Date:   Sun Mar 25 21:46:19 2018 -0400
+
+    Delete 01-read_input.sh
+
+[33mcommit 502b1432eb69348ecd75491dd3bab0bd5b761308[m
+Author: Elizabeth Haynie <35352425+LizzHaynie@users.noreply.github.com>
+Date:   Sun Mar 25 21:46:10 2018 -0400
+
+    Update 01-read_input.sh
+
+[33mcommit 9d15307242d9cb3ba09013da140e21a2c0cdce3c[m
+Author: Ben Jackson <bjackson14@ggc.edu>
+Date:   Sun Mar 25 13:38:43 2018 -0400
+
+    Shows Help
+
+[33mcommit ece434adca29c741dec1f52ddecbef7c10112cdd[m
+Author: Anca Doloc Mihu <adolocmihu@ggc.edu>
+Date:   Wed Mar 21 18:03:01 2018 -0400
+
+    ADM implemented exercise
+
+[33mcommit d40c2a3ed5ef683148dedbfdcb19ffbe31763264[m
+Author: cengique <cengique@users.sf.net>
+Date:   Wed Feb 28 13:09:33 2018 -0500
+
+    Added exercise to 11
+
+[33mcommit 3558f1459eb05dc6a00527dc7b974468b6c78db5[m
+Author: cengique <cengique@users.sf.net>
+Date:   Wed Feb 28 13:08:02 2018 -0500
+
+    Added exercise to 10
+
+[33mcommit a8f171f3005a7ac50a93e5b89b347b3de8236d62[m
+Author: cengique <cengique@users.sf.net>
+Date:   Wed Feb 28 13:06:22 2018 -0500
+
+    Add exercise to 09
+
+[33mcommit 996f17ac64657a5de0e2996b81f58c97260c6f3b[m
+Author: cengique <cengique@users.sf.net>
+Date:   Wed Feb 28 12:54:31 2018 -0500
+
+    Added exercise to 08
+
+[33mcommit 1702eebab58a7c856db25c52838ca75d1be5a693[m
+Author: cengique <cengique@users.sf.net>
+Date:   Wed Feb 28 12:52:01 2018 -0500
+
+    Added exercise
+
+[33mcommit 80aa7590af54522214d2343fc99976a3799f0760[m
+Author: Tacksoo Im <tacksoo.im@gmail.com>
+Date:   Tue Jan 26 15:53:00 2016 -0500
+
+    start regex examples
+
+[33mcommit 4b9e5dbaf70a1931066bf075cb1035ee478f04ab[m
+Author: Tacksoo Im <tacksoo.im@gmail.com>
+Date:   Tue Jan 26 11:32:44 2016 -0500
+
+    added cut, sed example
+
+[33mcommit 249de643f3720a258860942c8f060dd9c2e9d99c[m
+Author: Tacksoo Im <tacksoo.im@gmail.com>
+Date:   Mon Jan 25 16:23:25 2016 +0000
+
+    added exercises
+
+[33mcommit 8b3e4c87d9f60c17dd3ff849404913de30e31227[m
+Author: Tacksoo Im <tacksoo.im@gmail.com>
+Date:   Tue Sep 15 22:24:46 2015 -0400
+
+    netstat listening ports
+
+[33mcommit 42a4f6b9766c899da1247ab7337fe89288a815e9[m
+Author: Tacksoo Im <tacksoo.im@gmail.com>
+Date:   Tue Sep 8 21:31:40 2015 -0400
+
+    apt-get examples
+
+[33mcommit e7525d17b31483d812da28d2648824a5bdceea36[m
+Author: Tacksoo Im <tacksoo.im@gmail.com>
+Date:   Tue Sep 1 22:00:50 2015 -0400
+
+    words link
+
+[33mcommit b8cb669c3b0af35d35de813c783b17e22eb98185[m
+Author: Tacksoo Im <tacksoo.im@gmail.com>
+Date:   Tue Sep 1 15:10:38 2015 -0400
+
+    git reset examples
+
+[33mcommit de52256af6fb3d1aee17d4523dfc31b83288dc28[m
+Author: Tacksoo Im <tacksoo.im@gmail.com>
+Date:   Thu Aug 27 12:36:17 2015 -0400
+
+    gzip, bzip2 examples
+
+[33mcommit 4e2e9e582bae9fac932c42ee726ff3f1e8d96df4[m
+Author: tacksoo <tacksoo.im@gmail.com>
+Date:   Wed Aug 26 01:22:42 2015 +0000
+
+    tar example
+
+[33mcommit bcd74dfedafdf86cd616db58daed38a56a1b774d[m
+Author: Tacksoo Im <tacksoo.im@gmail.com>
+Date:   Sun Aug 16 21:35:19 2015 -0400
+
+    Update basics.sh
+
+[33mcommit 3d0184455e009fdd6433d4fc055d51d8311d9132[m
+Author: Tacksoo Im <tacksoo.im@gmail.com>
+Date:   Fri Jul 10 11:37:08 2015 -0400
+
+    how to show all remote and local branches
+
+[33mcommit d3710020a4f5bb3b127e65a037acb8fc88cbed76[m
+Author: Tacksoo Im <tacksoo.im@gmail.com>
+Date:   Fri Jan 30 09:00:41 2015 -0500
+
+    updated bash.sh with date command
+
+[33mcommit f80535dbc02f8523efd1b2e7e92430235bd35746[m
+Author: tacksoo <tacksoo.im@gmail.com>
+Date:   Sun Jan 25 09:58:52 2015 -0500
+
+    updated git.sh with git --graph
+
+[33mcommit 55633040391f62210b970a3c757e7884cd6e4a3c[m
+Author: tacksoo <tacksoo.im@gmail.com>
+Date:   Fri Jan 23 12:11:12 2015 -0500
+
+    added cut and wc commands
+
+[33mcommit 7aaf1f0d9dace607effbd692f582cc51a2d899eb[m
+Author: tacksoo <tacksoo.im@gmail.com>
+Date:   Thu Jan 22 08:57:47 2015 -0500
+
+    Update README.md
+
+[33mcommit 514fa9e3a866eb0e859b2fe2ae9e3e6977bcb37c[m
+Author: tacksoo <tacksoo.im@gmail.com>
+Date:   Thu Jan 22 08:50:42 2015 -0500
+
+    Update README.md
+
+[33mcommit 5b88537cdabd4fac2cfa277eb17512214fb5ae08[m
+Author: tacksoo <tacksoo.im@gmail.com>
+Date:   Thu Jan 22 08:49:40 2015 -0500
+
+    Update basics.sh
+
+[33mcommit 99658f6e9de0c8fb9bf84c58cf6ea20dfc1b0872[m
+Author: tacksoo <tacksoo.im@gmail.com>
+Date:   Sun Dec 7 01:56:58 2014 +0000
+
+    added simple vimrc
+
+[33mcommit 85d351e212aea7b32d53c95c3a364718241ca140[m
+Author: tacksoo <tacksoo.im@gmail.com>
+Date:   Tue Oct 21 17:17:41 2014 -0400
+
+    Update basics.sh
+
+[33mcommit 37fd22657967bbe59acb57c043b1ff9358e668fa[m
+Author: tacksoo <tacksoo.im@gmail.com>
+Date:   Sat Aug 23 12:42:40 2014 -0400
+
+    Update basics.sh
+
+[33mcommit ea15296c677e4518142451a12818b987fe5f040f[m
+Author: tacksoo <tacksoo.im@gmail.com>
+Date:   Thu Apr 17 12:37:49 2014 -0400
+
+    Update git.sh
+
+[33mcommit e70d0c120ee4d3c75c0d2506d027e526d30e4aae[m
+Author: tacksoo <
