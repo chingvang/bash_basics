@@ -13,8 +13,8 @@ function holiday_voicemail
 }
 
 
-echo "Please enter your name"
-read Ching
+echo "Please enter your last name"
+read Jogn
 
 day=$(date | cut -d' ' -f1)  # you can use this form instead of backticks
 
