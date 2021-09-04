@@ -2,26 +2,26 @@
 
 # function in bash
 
-function weekend_greet 
+function Christmas_holiday_greeting
 {
    echo "Enjoy the weekend! ${1}!"
 }
 
-function weekday_greet
+function Christmas_holiday_greeting
 {
    echo "Hope you are working hard, ${1}!"
 }
 
 
-echo "Please enter your name"
-read name
+echo "Please enter your lastname"
+read John
 
 day=$(date | cut -d' ' -f1)  # you can use this form instead of backticks
 
 if [ $day = "Sat" ] || [ $day = "Sun" ]; then
-   weekend_greet $name
+   Christmas_holiday_greeting $name
 else
-   weekday_greet $name
+   Christmas_holiday_greeting $name
 fi
 
 # exercise: Add a second argument to the function 
